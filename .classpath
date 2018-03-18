@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/MyWork/matlab/workspace/HelloWorld/for_testing/HelloWorld.jar" sourcepath="E:/MyWork/matlab/workspace/HelloWorld/for_testing/HelloWorld"/>
+	<classpathentry kind="lib" path="E:/MyWork/jee-mars/EEG_workspace/javabuilder.jar"/>
+	<classpathentry kind="lib" path="E:/MyWork/matlab/workspace/ApEn/ApEn_Jar/fast_ApEn/for_testing/fast_ApEn.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

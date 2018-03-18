@@ -1,0 +1,2 @@
+signal : theta  low-alpha  high-alpha  low-beta  high-beta  low-gamma  mid-gamma  
+sleep = [1288, 6711], asleep = []
